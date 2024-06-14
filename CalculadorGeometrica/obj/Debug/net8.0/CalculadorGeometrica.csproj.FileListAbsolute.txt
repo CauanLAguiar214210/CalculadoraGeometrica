@@ -1,0 +1,28 @@
+D:\DEV\2-C#\CalculadoraGeometrica\CalculadorGeometrica\CalculadorGeometrica\bin\Debug\net8.0\CalculadorGeometrica.exe
+D:\DEV\2-C#\CalculadoraGeometrica\CalculadorGeometrica\CalculadorGeometrica\bin\Debug\net8.0\CalculadorGeometrica.deps.json
+D:\DEV\2-C#\CalculadoraGeometrica\CalculadorGeometrica\CalculadorGeometrica\bin\Debug\net8.0\CalculadorGeometrica.runtimeconfig.json
+D:\DEV\2-C#\CalculadoraGeometrica\CalculadorGeometrica\CalculadorGeometrica\bin\Debug\net8.0\CalculadorGeometrica.dll
+D:\DEV\2-C#\CalculadoraGeometrica\CalculadorGeometrica\CalculadorGeometrica\bin\Debug\net8.0\CalculadorGeometrica.pdb
+D:\DEV\2-C#\CalculadoraGeometrica\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\CalculadorGeometrica.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\2-C#\CalculadoraGeometrica\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\CalculadorGeometrica.AssemblyInfoInputs.cache
+D:\DEV\2-C#\CalculadoraGeometrica\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\CalculadorGeometrica.AssemblyInfo.cs
+D:\DEV\2-C#\CalculadoraGeometrica\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\CalculadorGeometrica.csproj.CoreCompileInputs.cache
+D:\DEV\2-C#\CalculadoraGeometrica\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\CalculadorGeometrica.dll
+D:\DEV\2-C#\CalculadoraGeometrica\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\refint\CalculadorGeometrica.dll
+D:\DEV\2-C#\CalculadoraGeometrica\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\CalculadorGeometrica.pdb
+D:\DEV\2-C#\CalculadoraGeometrica\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\CalculadorGeometrica.genruntimeconfig.cache
+D:\DEV\2-C#\CalculadoraGeometrica\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\ref\CalculadorGeometrica.dll
+C:\Users\cauan\OneDrive\Área de Trabalho\CalculadorGeometrica\CalculadorGeometrica\bin\Debug\net8.0\CalculadorGeometrica.exe
+C:\Users\cauan\OneDrive\Área de Trabalho\CalculadorGeometrica\CalculadorGeometrica\bin\Debug\net8.0\CalculadorGeometrica.deps.json
+C:\Users\cauan\OneDrive\Área de Trabalho\CalculadorGeometrica\CalculadorGeometrica\bin\Debug\net8.0\CalculadorGeometrica.runtimeconfig.json
+C:\Users\cauan\OneDrive\Área de Trabalho\CalculadorGeometrica\CalculadorGeometrica\bin\Debug\net8.0\CalculadorGeometrica.dll
+C:\Users\cauan\OneDrive\Área de Trabalho\CalculadorGeometrica\CalculadorGeometrica\bin\Debug\net8.0\CalculadorGeometrica.pdb
+C:\Users\cauan\OneDrive\Área de Trabalho\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\CalculadorGeometrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauan\OneDrive\Área de Trabalho\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\CalculadorGeometrica.AssemblyInfoInputs.cache
+C:\Users\cauan\OneDrive\Área de Trabalho\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\CalculadorGeometrica.AssemblyInfo.cs
+C:\Users\cauan\OneDrive\Área de Trabalho\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\CalculadorGeometrica.csproj.CoreCompileInputs.cache
+C:\Users\cauan\OneDrive\Área de Trabalho\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\CalculadorGeometrica.dll
+C:\Users\cauan\OneDrive\Área de Trabalho\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\refint\CalculadorGeometrica.dll
+C:\Users\cauan\OneDrive\Área de Trabalho\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\CalculadorGeometrica.pdb
+C:\Users\cauan\OneDrive\Área de Trabalho\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\CalculadorGeometrica.genruntimeconfig.cache
+C:\Users\cauan\OneDrive\Área de Trabalho\CalculadorGeometrica\CalculadorGeometrica\obj\Debug\net8.0\ref\CalculadorGeometrica.dll
